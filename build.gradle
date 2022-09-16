@@ -10,7 +10,7 @@ dependencies {
 } 
 
 tasks.withType(Test) {
-    systemProperty "java.library.path", "libs/native/unix/amd64-Linux:libs/native/nativedata/amd64-Linux:libs/native/unix/x86_64-Mac OS X:libs/native/nativedata/x86_64-Mac OS X"
+    systemProperty "java.library.path", "libs/native/unix/amd64-Linux:libs/native/nativedata/amd64-Linux:libs/native/unix/x86_64-Mac OS X:libs/native/nativedata/x86_64-Mac OS X:libs/native/nativedata/aarch64-Mac OS X"
 }
 
 

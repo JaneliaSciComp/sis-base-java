@@ -71,6 +71,8 @@ import java.util.zip.ZipFile;
  *          nativedata/i386-Mac OS X/libnativedata.jnilib
  *       nativedata/x86_64-Mac OS X
  *          nativedata/x86_64-Mac OS X/libnativedata.jnilib
+ *       nativedata/aarch64-Mac OS X
+ *          nativedata/aarch64-Mac OS X/libnativedata.jnilib
  *       nativedata/x86-SunOS
  *          nativedata/x86-SunOS/libnativedata.so
  *       nativedata/amd64-SunOS
